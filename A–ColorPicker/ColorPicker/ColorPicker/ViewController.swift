@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  ColorMix
+//  ColorPicker
 //
-//  Created by Declan Wallace on 5/5/24.
+//  Created by Declan Wallace on 5/6/24.
 //
 
 import UIKit
